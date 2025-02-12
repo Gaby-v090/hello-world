@@ -3,5 +3,5 @@
 ## **Name**: Gabriela Valdez 
 ## **Year**: 4th Year
 ## **Major**: ESS
-## **OS**: Windows 
-## From Terminal test
+## **OS**: Windows 11
+
